@@ -15,14 +15,10 @@ impl TemplateApp {
     /// Called once before the first frame.
     pub fn new(cc: &eframe::CreationContext<'_>) -> Self {
         use eframe::{
-            self, 
             egui::{
-                self, 
                 FontDefinitions, 
                 FontData
             }, 
-            IconData, 
-            epaint::image
         };
         // This is also where you can customized the look at feel of egui using
         // `cc.egui_ctx.set_visuals` and `cc.egui_ctx.set_fonts`.
@@ -38,7 +34,7 @@ impl TemplateApp {
             .expect("フォントの初期化でエラー")
             .insert(0, String::from("M+"));
         
-        cc.egui_ctx.set_fonts(fonts);
+        /* cc.egui_ctx.set_fonts(fonts); */
 
         // Load previous app state (if any).
         // Note that you must enable the `persistence` feature for this to work.
