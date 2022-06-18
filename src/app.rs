@@ -14,8 +14,31 @@ impl Default for TemplateApp {
 impl TemplateApp {
     /// Called once before the first frame.
     pub fn new(cc: &eframe::CreationContext<'_>) -> Self {
+        use eframe::{
+            self, 
+            egui::{
+                self, 
+                FontDefinitions, 
+                FontData
+            }, 
+            IconData, 
+            epaint::image
+        };
         // This is also where you can customized the look at feel of egui using
         // `cc.egui_ctx.set_visuals` and `cc.egui_ctx.set_fonts`.
+
+        let mut fonts = FontDefinitions::default();
+        fonts.font_data.insert(
+            String::from("m plus"), 
+            FontData::from_static(include_bytes!("../MPLUS1-Light.ttf"))
+        );
+
+        fonts.families
+            .get_mut(&eframe::epaint::FontFamily::Proportional)
+            .expect("フォントの初期化でエラー")
+            .insert(0, String::from("M+"));
+        
+        cc.egui_ctx.set_fonts(fonts);
 
         // Load previous app state (if any).
         // Note that you must enable the `persistence` feature for this to work.
