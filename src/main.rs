@@ -11,6 +11,6 @@ fn main() {
     eframe::run_native(
         "eframe template",
         native_options,
-        Box::new(|cc| Box::new(operation_search::TemplateApp::new(cc))),
+        Box::new(|cc| Box::new(operation_search::OprationApp::new(cc))),
     );
 }
