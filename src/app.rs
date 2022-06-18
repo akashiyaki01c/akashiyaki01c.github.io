@@ -34,7 +34,7 @@ impl TemplateApp {
             .expect("フォントの初期化でエラー")
             .insert(0, String::from("M+"));
         
-        /* cc.egui_ctx.set_fonts(fonts); */
+        cc.egui_ctx.set_fonts(fonts); 
 
         // Load previous app state (if any).
         // Note that you must enable the `persistence` feature for this to work.
@@ -72,7 +72,7 @@ impl eframe::App for TemplateApp {
             ui.label("現在絶賛開発中");
         });
 
-        if false {
+        if true {
             egui::Window::new("Window").show(ctx, |ui| {
                 ui.label("Windows can be moved by dragging them.");
                 ui.label("They are automatically sized based on contents.");
