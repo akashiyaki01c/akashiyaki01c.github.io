@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    background-color: whitesmoke;
+    font-family: 'M PLUS 1', sans-serif;
+}
+
+h1 {
+    background-color: darkblue;
+    color: white;
+    font-weight: 700;
+}
+
+h2 {
+    border-bottom: 5px solid darkblue;
+    font-weight: 500;
+}
+
+h3 {
+    border-bottom: 2px solid darkblue;
+    font-weight: 400;
+    font-size: 100%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border-collapse: collapse;
+    border: 1px solid #333;
+}
+
+td {
+    border-collapse: collapse;
+    border: 1px solid #333;
+}
