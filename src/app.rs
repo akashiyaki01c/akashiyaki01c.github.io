@@ -36,6 +36,8 @@ impl OprationApp {
             .insert(0, String::from("M+"));
         cc.egui_ctx.set_fonts(fonts); 
 
+        cc.egui_ctx.set_pixels_per_point(1.0);
+
         // Load previous app state (if any).
         // Note that you must enable the `persistence` feature for this to work.
         if let Some(storage) = cc.storage {
