@@ -130,7 +130,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "0580405",
+    "retsuban": "05804",
     "unban": "4",
     "typecode": "Local",
     "destcode": "Tanigami",
@@ -204,7 +204,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "0570205",
+    "retsuban": "05702",
     "unban": "2",
     "typecode": "Local",
     "destcode": "Shinkobe",
