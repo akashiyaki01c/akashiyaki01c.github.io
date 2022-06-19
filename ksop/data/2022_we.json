@@ -1,14 +1,11 @@
 [
   {
     "retsuban": "05-801",
-    "unban": "01",
+    "unban": "1",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 5,
-        "minute": 52
-      },
+      null,
       {
         "hour": 5,
         "minute": 44
@@ -63,14 +60,11 @@
   },
   {
     "retsuban": "05-803",
-    "unban": "03",
+    "unban": "3",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 6,
-        "minute": 4
-      },
+      null,
       {
         "hour": 5,
         "minute": 56
@@ -140,14 +134,11 @@
   },
   {
     "retsuban": "05-804",
-    "unban": "04",
+    "unban": "4",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 6,
-        "minute": 15
-      },
+      null,
       {
         "hour": 6,
         "minute": 7
@@ -217,14 +208,11 @@
   },
   {
     "retsuban": "05-802",
-    "unban": "02",
+    "unban": "2",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 6,
-        "minute": 24
-      },
+      null,
       {
         "hour": 6,
         "minute": 16
@@ -294,14 +282,11 @@
   },
   {
     "retsuban": "05-805",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 6,
-        "minute": 35
-      },
+      null,
       {
         "hour": 6,
         "minute": 27
@@ -375,10 +360,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 6,
-        "minute": 49
-      },
+      null,
       {
         "hour": 6,
         "minute": 41
@@ -448,14 +430,11 @@
   },
   {
     "retsuban": "06-806",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 6,
-        "minute": 58
-      },
+      null,
       {
         "hour": 6,
         "minute": 50
@@ -525,14 +504,11 @@
   },
   {
     "retsuban": "06-808",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 7,
-        "minute": 4
-      },
+      null,
       {
         "hour": 6,
         "minute": 56
@@ -591,10 +567,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 7,
-        "minute": 11
-      },
+      null,
       {
         "hour": 7,
         "minute": 3
@@ -664,15 +637,12 @@
   },
   {
     "retsuban": "06-707",
-    "unban": "07",
+    "unban": "7",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 7,
-        "minute": 8
-      },
+      null,
       {
         "hour": 7,
         "minute": 6
@@ -742,10 +712,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 7,
-        "minute": 22
-      },
+      null,
       {
         "hour": 7,
         "minute": 14
@@ -800,14 +767,11 @@
   },
   {
     "retsuban": "06-801",
-    "unban": "01",
+    "unban": "1",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 7,
-        "minute": 26
-      },
+      null,
       {
         "hour": 7,
         "minute": 18
@@ -882,10 +846,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 7,
-        "minute": 25
-      },
+      null,
       {
         "hour": 7,
         "minute": 23
@@ -936,14 +897,11 @@
   },
   {
     "retsuban": "06-803",
-    "unban": "03",
+    "unban": "3",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 7,
-        "minute": 38
-      },
+      null,
       {
         "hour": 7,
         "minute": 30
@@ -1013,15 +971,12 @@
   },
   {
     "retsuban": "06-709",
-    "unban": "09",
+    "unban": "9",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 7,
-        "minute": 34
-      },
+      null,
       {
         "hour": 7,
         "minute": 32
@@ -1091,10 +1046,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 7,
-        "minute": 46
-      },
+      null,
       {
         "hour": 7,
         "minute": 38
@@ -1169,10 +1121,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 7,
-        "minute": 41
-      },
+      null,
       {
         "hour": 7,
         "minute": 39
@@ -1242,10 +1191,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 7,
-        "minute": 53
-      },
+      null,
       {
         "hour": 7,
         "minute": 45
@@ -1315,15 +1261,12 @@
   },
   {
     "retsuban": "07-704",
-    "unban": "04",
+    "unban": "4",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 7,
-        "minute": 48
-      },
+      null,
       {
         "hour": 7,
         "minute": 46
@@ -1394,10 +1337,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 7,
-        "minute": 51
-      },
+      null,
       {
         "hour": 7,
         "minute": 49
@@ -1467,10 +1407,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 8,
-        "minute": 3
-      },
+      null,
       {
         "hour": 7,
         "minute": 55
@@ -1540,15 +1477,12 @@
   },
   {
     "retsuban": "07-702",
-    "unban": "02",
+    "unban": "2",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 7,
-        "minute": 58
-      },
+      null,
       {
         "hour": 7,
         "minute": 56
@@ -1619,10 +1553,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 2
-      },
+      null,
       {
         "hour": 8,
         "minute": 0
@@ -1692,10 +1623,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 8,
-        "minute": 14
-      },
+      null,
       {
         "hour": 8,
         "minute": 6
@@ -1765,15 +1693,12 @@
   },
   {
     "retsuban": "07-705",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 9
-      },
+      null,
       {
         "hour": 8,
         "minute": 7
@@ -1844,10 +1769,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 12
-      },
+      null,
       {
         "hour": 8,
         "minute": 10
@@ -1917,10 +1839,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 8,
-        "minute": 24
-      },
+      null,
       {
         "hour": 8,
         "minute": 16
@@ -1995,10 +1914,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 19
-      },
+      null,
       {
         "hour": 8,
         "minute": 17
@@ -2068,10 +1984,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 8,
-        "minute": 32
-      },
+      null,
       {
         "hour": 8,
         "minute": 24
@@ -2141,15 +2054,12 @@
   },
   {
     "retsuban": "07-706",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 26
-      },
+      null,
       {
         "hour": 8,
         "minute": 24
@@ -2220,10 +2130,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 30
-      },
+      null,
       {
         "hour": 8,
         "minute": 28
@@ -2289,14 +2196,11 @@
   },
   {
     "retsuban": "07-808",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 8,
-        "minute": 42
-      },
+      null,
       {
         "hour": 8,
         "minute": 34
@@ -2366,15 +2270,12 @@
   },
   {
     "retsuban": "08-707",
-    "unban": "07",
+    "unban": "7",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 37
-      },
+      null,
       {
         "hour": 8,
         "minute": 35
@@ -2444,10 +2345,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 8,
-        "minute": 49
-      },
+      null,
       {
         "hour": 8,
         "minute": 41
@@ -2517,15 +2415,12 @@
   },
   {
     "retsuban": "08-703",
-    "unban": "03",
+    "unban": "3",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 44
-      },
+      null,
       {
         "hour": 8,
         "minute": 42
@@ -2581,10 +2476,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 47
-      },
+      null,
       {
         "hour": 8,
         "minute": 45
@@ -2654,10 +2546,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 8,
-        "minute": 59
-      },
+      null,
       {
         "hour": 8,
         "minute": 51
@@ -2727,15 +2616,12 @@
   },
   {
     "retsuban": "08-709",
-    "unban": "09",
+    "unban": "9",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 8,
-        "minute": 54
-      },
+      null,
       {
         "hour": 8,
         "minute": 52
@@ -2801,14 +2687,11 @@
   },
   {
     "retsuban": "08-801",
-    "unban": "01",
+    "unban": "1",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 9,
-        "minute": 6
-      },
+      null,
       {
         "hour": 8,
         "minute": 58
@@ -2882,10 +2765,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 9,
-        "minute": 11
-      },
+      null,
       {
         "hour": 9,
         "minute": 3
@@ -2955,15 +2835,12 @@
   },
   {
     "retsuban": "08-704",
-    "unban": "04",
+    "unban": "4",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 9,
-        "minute": 8
-      },
+      null,
       {
         "hour": 9,
         "minute": 6
@@ -3034,10 +2911,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 9,
-        "minute": 13
-      },
+      null,
       {
         "hour": 9,
         "minute": 11
@@ -3107,10 +2981,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 9,
-        "minute": 26
-      },
+      null,
       {
         "hour": 9,
         "minute": 18
@@ -3185,10 +3056,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 9,
-        "minute": 22
-      },
+      null,
       {
         "hour": 9,
         "minute": 20
@@ -3254,14 +3122,11 @@
   },
   {
     "retsuban": "08-805",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 9,
-        "minute": 35
-      },
+      null,
       {
         "hour": 9,
         "minute": 27
@@ -3336,10 +3201,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 9,
-        "minute": 32
-      },
+      null,
       {
         "hour": 9,
         "minute": 30
@@ -3409,10 +3271,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 9,
-        "minute": 47
-      },
+      null,
       {
         "hour": 9,
         "minute": 39
@@ -3482,15 +3341,12 @@
   },
   {
     "retsuban": "09-706",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 9,
-        "minute": 45
-      },
+      null,
       {
         "hour": 9,
         "minute": 43
@@ -3560,10 +3416,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 10,
-        "minute": 0
-      },
+      null,
       {
         "hour": 9,
         "minute": 52
@@ -3638,10 +3491,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 9,
-        "minute": 59
-      },
+      null,
       {
         "hour": 9,
         "minute": 57
@@ -3711,10 +3561,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 10,
-        "minute": 14
-      },
+      null,
       {
         "hour": 10,
         "minute": 6
@@ -3784,15 +3631,12 @@
   },
   {
     "retsuban": "09-708",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 10,
-        "minute": 12
-      },
+      null,
       {
         "hour": 10,
         "minute": 10
@@ -3862,10 +3706,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 10,
-        "minute": 28
-      },
+      null,
       {
         "hour": 10,
         "minute": 20
@@ -3939,10 +3780,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 10,
-        "minute": 34
-      },
+      null,
       {
         "hour": 10,
         "minute": 26
@@ -4017,10 +3855,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 10,
-        "minute": 32
-      },
+      null,
       {
         "hour": 10,
         "minute": 30
@@ -4090,10 +3925,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 10,
-        "minute": 49
-      },
+      null,
       {
         "hour": 10,
         "minute": 41
@@ -4168,10 +4000,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 10,
-        "minute": 48
-      },
+      null,
       {
         "hour": 10,
         "minute": 46
@@ -4241,10 +4070,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 11,
-        "minute": 4
-      },
+      null,
       {
         "hour": 10,
         "minute": 56
@@ -4314,15 +4140,12 @@
   },
   {
     "retsuban": "10-705",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 11,
-        "minute": 2
-      },
+      null,
       {
         "hour": 11,
         "minute": 0
@@ -4388,14 +4211,11 @@
   },
   {
     "retsuban": "10-806",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 11,
-        "minute": 19
-      },
+      null,
       {
         "hour": 11,
         "minute": 11
@@ -4470,10 +4290,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 11,
-        "minute": 17
-      },
+      null,
       {
         "hour": 11,
         "minute": 15
@@ -4543,10 +4360,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 11,
-        "minute": 34
-      },
+      null,
       {
         "hour": 11,
         "minute": 26
@@ -4621,10 +4435,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 11,
-        "minute": 32
-      },
+      null,
       {
         "hour": 11,
         "minute": 30
@@ -4690,14 +4501,11 @@
   },
   {
     "retsuban": "11-808",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 11,
-        "minute": 49
-      },
+      null,
       {
         "hour": 11,
         "minute": 41
@@ -4772,10 +4580,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 11,
-        "minute": 47
-      },
+      null,
       {
         "hour": 11,
         "minute": 45
@@ -4845,10 +4650,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 12,
-        "minute": 4
-      },
+      null,
       {
         "hour": 11,
         "minute": 56
@@ -4923,10 +4725,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 12,
-        "minute": 2
-      },
+      null,
       {
         "hour": 12,
         "minute": 0
@@ -4996,10 +4795,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 12,
-        "minute": 19
-      },
+      null,
       {
         "hour": 12,
         "minute": 11
@@ -5074,10 +4870,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 12,
-        "minute": 17
-      },
+      null,
       {
         "hour": 12,
         "minute": 15
@@ -5143,14 +4936,11 @@
   },
   {
     "retsuban": "11-805",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 12,
-        "minute": 34
-      },
+      null,
       {
         "hour": 12,
         "minute": 26
@@ -5225,10 +5015,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 12,
-        "minute": 32
-      },
+      null,
       {
         "hour": 12,
         "minute": 30
@@ -5298,10 +5085,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 12,
-        "minute": 49
-      },
+      null,
       {
         "hour": 12,
         "minute": 41
@@ -5371,15 +5155,12 @@
   },
   {
     "retsuban": "12-706",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 12,
-        "minute": 47
-      },
+      null,
       {
         "hour": 12,
         "minute": 45
@@ -5449,10 +5230,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 13,
-        "minute": 4
-      },
+      null,
       {
         "hour": 12,
         "minute": 56
@@ -5527,10 +5305,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 13,
-        "minute": 2
-      },
+      null,
       {
         "hour": 13,
         "minute": 0
@@ -5600,10 +5375,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 13,
-        "minute": 19
-      },
+      null,
       {
         "hour": 13,
         "minute": 11
@@ -5673,15 +5445,12 @@
   },
   {
     "retsuban": "12-708",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 13,
-        "minute": 17
-      },
+      null,
       {
         "hour": 13,
         "minute": 15
@@ -5751,10 +5520,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 13,
-        "minute": 34
-      },
+      null,
       {
         "hour": 13,
         "minute": 26
@@ -5829,10 +5595,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 13,
-        "minute": 32
-      },
+      null,
       {
         "hour": 13,
         "minute": 30
@@ -5902,10 +5665,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 13,
-        "minute": 49
-      },
+      null,
       {
         "hour": 13,
         "minute": 41
@@ -5980,10 +5740,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 13,
-        "minute": 47
-      },
+      null,
       {
         "hour": 13,
         "minute": 45
@@ -6053,10 +5810,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 14,
-        "minute": 4
-      },
+      null,
       {
         "hour": 13,
         "minute": 56
@@ -6126,15 +5880,12 @@
   },
   {
     "retsuban": "13-705",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 14,
-        "minute": 2
-      },
+      null,
       {
         "hour": 14,
         "minute": 0
@@ -6200,14 +5951,11 @@
   },
   {
     "retsuban": "13-806",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 14,
-        "minute": 19
-      },
+      null,
       {
         "hour": 14,
         "minute": 11
@@ -6282,10 +6030,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 14,
-        "minute": 17
-      },
+      null,
       {
         "hour": 14,
         "minute": 15
@@ -6355,10 +6100,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 14,
-        "minute": 34
-      },
+      null,
       {
         "hour": 14,
         "minute": 26
@@ -6433,10 +6175,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 14,
-        "minute": 32
-      },
+      null,
       {
         "hour": 14,
         "minute": 30
@@ -6502,14 +6241,11 @@
   },
   {
     "retsuban": "14-808",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 14,
-        "minute": 49
-      },
+      null,
       {
         "hour": 14,
         "minute": 41
@@ -6584,10 +6320,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 14,
-        "minute": 47
-      },
+      null,
       {
         "hour": 14,
         "minute": 45
@@ -6657,10 +6390,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 15,
-        "minute": 4
-      },
+      null,
       {
         "hour": 14,
         "minute": 56
@@ -6735,10 +6465,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 15,
-        "minute": 2
-      },
+      null,
       {
         "hour": 15,
         "minute": 0
@@ -6808,10 +6535,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 15,
-        "minute": 19
-      },
+      null,
       {
         "hour": 15,
         "minute": 11
@@ -6886,10 +6610,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 15,
-        "minute": 17
-      },
+      null,
       {
         "hour": 15,
         "minute": 15
@@ -6955,14 +6676,11 @@
   },
   {
     "retsuban": "14-805",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 15,
-        "minute": 34
-      },
+      null,
       {
         "hour": 15,
         "minute": 26
@@ -7037,10 +6755,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 15,
-        "minute": 32
-      },
+      null,
       {
         "hour": 15,
         "minute": 30
@@ -7110,10 +6825,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 15,
-        "minute": 49
-      },
+      null,
       {
         "hour": 15,
         "minute": 41
@@ -7183,15 +6895,12 @@
   },
   {
     "retsuban": "15-706",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 15,
-        "minute": 47
-      },
+      null,
       {
         "hour": 15,
         "minute": 45
@@ -7261,10 +6970,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 16,
-        "minute": 4
-      },
+      null,
       {
         "hour": 15,
         "minute": 56
@@ -7339,10 +7045,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 16,
-        "minute": 2
-      },
+      null,
       {
         "hour": 16,
         "minute": 0
@@ -7412,10 +7115,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 16,
-        "minute": 19
-      },
+      null,
       {
         "hour": 16,
         "minute": 11
@@ -7485,15 +7185,12 @@
   },
   {
     "retsuban": "15-708",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 16,
-        "minute": 17
-      },
+      null,
       {
         "hour": 16,
         "minute": 15
@@ -7563,10 +7260,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 16,
-        "minute": 33
-      },
+      null,
       {
         "hour": 16,
         "minute": 25
@@ -7641,10 +7335,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 16,
-        "minute": 29
-      },
+      null,
       {
         "hour": 16,
         "minute": 27
@@ -7700,10 +7391,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 16,
-        "minute": 33
-      },
+      null,
       {
         "hour": 16,
         "minute": 31
@@ -7773,10 +7461,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 16,
-        "minute": 49
-      },
+      null,
       {
         "hour": 16,
         "minute": 41
@@ -7851,10 +7536,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 16,
-        "minute": 45
-      },
+      null,
       {
         "hour": 16,
         "minute": 43
@@ -7910,10 +7592,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 16,
-        "minute": 51
-      },
+      null,
       {
         "hour": 16,
         "minute": 49
@@ -7983,10 +7662,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 17,
-        "minute": 4
-      },
+      null,
       {
         "hour": 16,
         "minute": 56
@@ -8056,15 +7732,12 @@
   },
   {
     "retsuban": "16-705",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 17,
-        "minute": 3
-      },
+      null,
       {
         "hour": 17,
         "minute": 1
@@ -8130,14 +7803,11 @@
   },
   {
     "retsuban": "16-806",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 17,
-        "minute": 18
-      },
+      null,
       {
         "hour": 17,
         "minute": 10
@@ -8212,10 +7882,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 17,
-        "minute": 18
-      },
+      null,
       {
         "hour": 17,
         "minute": 16
@@ -8285,10 +7952,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 17,
-        "minute": 32
-      },
+      null,
       {
         "hour": 17,
         "minute": 24
@@ -8363,10 +8027,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 17,
-        "minute": 29
-      },
+      null,
       {
         "hour": 17,
         "minute": 27
@@ -8436,10 +8097,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 17,
-        "minute": 44
-      },
+      null,
       {
         "hour": 17,
         "minute": 36
@@ -8509,14 +8167,11 @@
   },
   {
     "retsuban": "17-808",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 17,
-        "minute": 49
-      },
+      null,
       {
         "hour": 17,
         "minute": 41
@@ -8591,10 +8246,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 17,
-        "minute": 47
-      },
+      null,
       {
         "hour": 17,
         "minute": 45
@@ -8664,10 +8316,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 18,
-        "minute": 0
-      },
+      null,
       {
         "hour": 17,
         "minute": 52
@@ -8742,10 +8391,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 17,
-        "minute": 57
-      },
+      null,
       {
         "hour": 17,
         "minute": 55
@@ -8815,10 +8461,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 18,
-        "minute": 10
-      },
+      null,
       {
         "hour": 18,
         "minute": 2
@@ -8893,10 +8536,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 18,
-        "minute": 7
-      },
+      null,
       {
         "hour": 18,
         "minute": 5
@@ -8966,10 +8606,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 18,
-        "minute": 20
-      },
+      null,
       {
         "hour": 18,
         "minute": 12
@@ -9043,10 +8680,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 18,
-        "minute": 25
-      },
+      null,
       {
         "hour": 18,
         "minute": 17
@@ -9121,10 +8755,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 18,
-        "minute": 22
-      },
+      null,
       {
         "hour": 18,
         "minute": 20
@@ -9190,14 +8821,11 @@
   },
   {
     "retsuban": "17-805",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 18,
-        "minute": 35
-      },
+      null,
       {
         "hour": 18,
         "minute": 27
@@ -9271,10 +8899,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 18,
-        "minute": 42
-      },
+      null,
       {
         "hour": 18,
         "minute": 34
@@ -9349,10 +8974,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 18,
-        "minute": 38
-      },
+      null,
       {
         "hour": 18,
         "minute": 36
@@ -9418,14 +9040,11 @@
   },
   {
     "retsuban": "18-806",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 18,
-        "minute": 53
-      },
+      null,
       {
         "hour": 18,
         "minute": 45
@@ -9499,10 +9118,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 18,
-        "minute": 58
-      },
+      null,
       {
         "hour": 18,
         "minute": 50
@@ -9577,10 +9193,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 18,
-        "minute": 56
-      },
+      null,
       {
         "hour": 18,
         "minute": 54
@@ -9650,10 +9263,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 19,
-        "minute": 11
-      },
+      null,
       {
         "hour": 19,
         "minute": 3
@@ -9727,10 +9337,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 19,
-        "minute": 16
-      },
+      null,
       {
         "hour": 19,
         "minute": 8
@@ -9805,10 +9412,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 19,
-        "minute": 14
-      },
+      null,
       {
         "hour": 19,
         "minute": 12
@@ -9878,10 +9482,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 19,
-        "minute": 29
-      },
+      null,
       {
         "hour": 19,
         "minute": 21
@@ -9951,14 +9552,11 @@
   },
   {
     "retsuban": "18-808",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 19,
-        "minute": 35
-      },
+      null,
       {
         "hour": 19,
         "minute": 27
@@ -10033,10 +9631,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 19,
-        "minute": 31
-      },
+      null,
       {
         "hour": 19,
         "minute": 29
@@ -10106,10 +9701,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 19,
-        "minute": 47
-      },
+      null,
       {
         "hour": 19,
         "minute": 39
@@ -10183,10 +9775,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 19,
-        "minute": 52
-      },
+      null,
       {
         "hour": 19,
         "minute": 44
@@ -10261,10 +9850,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 19,
-        "minute": 50
-      },
+      null,
       {
         "hour": 19,
         "minute": 48
@@ -10334,10 +9920,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 20,
-        "minute": 4
-      },
+      null,
       {
         "hour": 19,
         "minute": 56
@@ -10412,10 +9995,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 20,
-        "minute": 2
-      },
+      null,
       {
         "hour": 20,
         "minute": 0
@@ -10481,14 +10061,11 @@
   },
   {
     "retsuban": "19-805",
-    "unban": "05",
+    "unban": "5",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 20,
-        "minute": 17
-      },
+      null,
       {
         "hour": 20,
         "minute": 9
@@ -10562,10 +10139,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 20,
-        "minute": 22
-      },
+      null,
       {
         "hour": 20,
         "minute": 14
@@ -10640,10 +10214,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 20,
-        "minute": 20
-      },
+      null,
       {
         "hour": 20,
         "minute": 18
@@ -10709,14 +10280,11 @@
   },
   {
     "retsuban": "19-806",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 20,
-        "minute": 34
-      },
+      null,
       {
         "hour": 20,
         "minute": 26
@@ -10791,10 +10359,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 20,
-        "minute": 31
-      },
+      null,
       {
         "hour": 20,
         "minute": 29
@@ -10864,10 +10429,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 20,
-        "minute": 46
-      },
+      null,
       {
         "hour": 20,
         "minute": 38
@@ -10941,10 +10503,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 20,
-        "minute": 52
-      },
+      null,
       {
         "hour": 20,
         "minute": 44
@@ -11019,10 +10578,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 20,
-        "minute": 50
-      },
+      null,
       {
         "hour": 20,
         "minute": 48
@@ -11092,10 +10648,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 21,
-        "minute": 5
-      },
+      null,
       {
         "hour": 20,
         "minute": 57
@@ -11170,10 +10723,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 21,
-        "minute": 2
-      },
+      null,
       {
         "hour": 21,
         "minute": 0
@@ -11239,14 +10789,11 @@
   },
   {
     "retsuban": "20-808",
-    "unban": "08",
+    "unban": "8",
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 21,
-        "minute": 16
-      },
+      null,
       {
         "hour": 21,
         "minute": 8
@@ -11320,10 +10867,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 21,
-        "minute": 23
-      },
+      null,
       {
         "hour": 21,
         "minute": 15
@@ -11398,10 +10942,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 21,
-        "minute": 19
-      },
+      null,
       {
         "hour": 21,
         "minute": 17
@@ -11471,10 +11012,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 21,
-        "minute": 34
-      },
+      null,
       {
         "hour": 21,
         "minute": 26
@@ -11548,10 +11086,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 21,
-        "minute": 40
-      },
+      null,
       {
         "hour": 21,
         "minute": 32
@@ -11626,10 +11161,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 21,
-        "minute": 37
-      },
+      null,
       {
         "hour": 21,
         "minute": 35
@@ -11699,10 +11231,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 21,
-        "minute": 52
-      },
+      null,
       {
         "hour": 21,
         "minute": 44
@@ -11776,10 +11305,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 21,
-        "minute": 59
-      },
+      null,
       {
         "hour": 21,
         "minute": 51
@@ -11853,10 +11379,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 22,
-        "minute": 4
-      },
+      null,
       {
         "hour": 21,
         "minute": 56
@@ -11926,15 +11449,12 @@
   },
   {
     "retsuban": "21-706",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 22,
-        "minute": 2
-      },
+      null,
       {
         "hour": 22,
         "minute": 0
@@ -12004,10 +11524,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 22,
-        "minute": 16
-      },
+      null,
       {
         "hour": 22,
         "minute": 8
@@ -12082,10 +11599,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 22,
-        "minute": 14
-      },
+      null,
       {
         "hour": 22,
         "minute": 12
@@ -12155,10 +11669,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 22,
-        "minute": 30
-      },
+      null,
       {
         "hour": 22,
         "minute": 22
@@ -12232,10 +11743,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 22,
-        "minute": 38
-      },
+      null,
       {
         "hour": 22,
         "minute": 30
@@ -12309,10 +11817,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 22,
-        "minute": 47
-      },
+      null,
       {
         "hour": 22,
         "minute": 39
@@ -12387,10 +11892,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 22,
-        "minute": 48
-      },
+      null,
       {
         "hour": 22,
         "minute": 46
@@ -12460,10 +11962,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 23,
-        "minute": 5
-      },
+      null,
       {
         "hour": 22,
         "minute": 57
@@ -12538,10 +12037,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 23,
-        "minute": 6
-      },
+      null,
       {
         "hour": 23,
         "minute": 4
@@ -12611,10 +12107,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 23,
-        "minute": 23
-      },
+      null,
       {
         "hour": 23,
         "minute": 15
@@ -12688,10 +12181,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 23,
-        "minute": 30
-      },
+      null,
       {
         "hour": 23,
         "minute": 22
@@ -12761,15 +12251,12 @@
   },
   {
     "retsuban": "22-706",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 23,
-        "minute": 27
-      },
+      null,
       {
         "hour": 23,
         "minute": 25
@@ -12839,10 +12326,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 23,
-        "minute": 41
-      },
+      null,
       {
         "hour": 23,
         "minute": 33
@@ -12917,10 +12401,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 23,
-        "minute": 40
-      },
+      null,
       {
         "hour": 23,
         "minute": 38
@@ -12990,10 +12471,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 23,
-        "minute": 58
-      },
+      null,
       {
         "hour": 23,
         "minute": 50
@@ -13068,10 +12546,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 23,
-        "minute": 58
-      },
+      null,
       {
         "hour": 23,
         "minute": 56
@@ -13141,10 +12616,7 @@
     "typecode": "Local",
     "destcode": "Tanigami",
     "jikoku": [
-      {
-        "hour": 0,
-        "minute": 15
-      },
+      null,
       {
         "hour": 0,
         "minute": 7
@@ -13229,10 +12701,7 @@
       null,
       null,
       null,
-      {
-        "hour": 23,
-        "minute": 52
-      },
+      null,
       {
         "hour": 23,
         "minute": 50
@@ -13263,10 +12732,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 0,
-        "minute": 24
-      },
+      null,
       {
         "hour": 0,
         "minute": 22
@@ -13337,10 +12803,7 @@
     "destcode": "Shinkobe",
     "jikoku": [
       null,
-      {
-        "hour": 0,
-        "minute": 35
-      },
+      null,
       {
         "hour": 0,
         "minute": 33
@@ -13406,7 +12869,7 @@
   },
   {
     "retsuban": "00-306",
-    "unban": "06",
+    "unban": "6",
     "typecode": "Local",
     "destcode": "Myodani",
     "jikoku": [
@@ -13421,10 +12884,7 @@
       null,
       null,
       null,
-      {
-        "hour": 0,
-        "minute": 26
-      },
+      null,
       {
         "hour": 0,
         "minute": 24
@@ -13465,10 +12925,7 @@
       null,
       null,
       null,
-      {
-        "hour": 0,
-        "minute": 37
-      },
+      null,
       {
         "hour": 0,
         "minute": 35
@@ -13509,10 +12966,7 @@
       null,
       null,
       null,
-      {
-        "hour": 0,
-        "minute": 52
-      },
+      null,
       {
         "hour": 0,
         "minute": 50
