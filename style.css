@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: #fafafa;
     font-family: 'M PLUS 1', sans-serif;
     margin: 5px;
 }
@@ -65,10 +65,6 @@ p {
 
 ul {
     display: inline;
-}
-
-span {
-    margin: 5px 0;
 }
 
 .hour {
