@@ -1,6 +1,6 @@
 [
   {
-    "retsuban": "05-102",
+    "retsuban": "05102",
     "unban": "2",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -41,7 +41,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "05-105",
+    "retsuban": "05105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -82,7 +82,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "05-125",
+    "retsuban": "05125",
     "unban": "25",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -156,7 +156,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "05-106",
+    "retsuban": "05106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -227,7 +227,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "05-126",
+    "retsuban": "05126",
     "unban": "26",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -301,7 +301,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-107",
+    "retsuban": "06107",
     "unban": "7",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -342,7 +342,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "05-101",
+    "retsuban": "05101",
     "unban": "1",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -416,7 +416,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-103",
+    "retsuban": "06103",
     "unban": "3",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -490,7 +490,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-109",
+    "retsuban": "06109",
     "unban": "9",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -531,7 +531,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-160",
+    "retsuban": "06160",
     "unban": "60",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -605,7 +605,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-110",
+    "retsuban": "06110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -646,7 +646,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-104",
+    "retsuban": "06104",
     "unban": "4",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -720,7 +720,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-112",
+    "retsuban": "07112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -761,7 +761,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-102",
+    "retsuban": "06102",
     "unban": "2",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -835,7 +835,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-115",
+    "retsuban": "07115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -876,7 +876,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-105",
+    "retsuban": "06105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -950,7 +950,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-117",
+    "retsuban": "07117",
     "unban": "17",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -991,7 +991,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "06-125",
+    "retsuban": "06125",
     "unban": "25",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1065,7 +1065,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-118",
+    "retsuban": "07118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1106,7 +1106,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-106",
+    "retsuban": "07106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1180,7 +1180,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-120",
+    "retsuban": "07120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1221,7 +1221,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-108",
+    "retsuban": "07108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1295,7 +1295,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-107",
+    "retsuban": "07107",
     "unban": "7",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1366,7 +1366,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-126",
+    "retsuban": "07126",
     "unban": "26",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1440,7 +1440,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-113",
+    "retsuban": "07113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1511,7 +1511,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-111",
+    "retsuban": "07111",
     "unban": "11",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1585,7 +1585,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-109",
+    "retsuban": "07109",
     "unban": "9",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1656,7 +1656,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-101",
+    "retsuban": "07101",
     "unban": "1",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1730,7 +1730,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-110",
+    "retsuban": "07110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1801,7 +1801,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-303",
+    "retsuban": "07303",
     "unban": "3",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -1860,7 +1860,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-104",
+    "retsuban": "07104",
     "unban": "4",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -1931,7 +1931,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-112",
+    "retsuban": "07112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2002,7 +2002,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "07-160",
+    "retsuban": "07160",
     "unban": "60",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2076,7 +2076,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-302",
+    "retsuban": "08302",
     "unban": "2",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -2132,7 +2132,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-115",
+    "retsuban": "08115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2203,7 +2203,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-314",
+    "retsuban": "08314",
     "unban": "14",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -2262,7 +2262,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-105",
+    "retsuban": "08105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2333,7 +2333,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-317",
+    "retsuban": "08317",
     "unban": "17",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -2389,7 +2389,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-116",
+    "retsuban": "08116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2463,7 +2463,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-118",
+    "retsuban": "08118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2534,7 +2534,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-319",
+    "retsuban": "08319",
     "unban": "19",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -2593,7 +2593,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-106",
+    "retsuban": "08106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2664,7 +2664,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-120",
+    "retsuban": "08120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2735,7 +2735,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-325",
+    "retsuban": "08325",
     "unban": "25",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -2794,7 +2794,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-107",
+    "retsuban": "08107",
     "unban": "7",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2865,7 +2865,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-121",
+    "retsuban": "08121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -2939,7 +2939,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-303",
+    "retsuban": "08303",
     "unban": "3",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -2995,7 +2995,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-113",
+    "retsuban": "08113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3066,7 +3066,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-108",
+    "retsuban": "08108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3140,7 +3140,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-309",
+    "retsuban": "09309",
     "unban": "9",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -3196,7 +3196,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "08-126",
+    "retsuban": "08126",
     "unban": "26",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3270,7 +3270,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-111",
+    "retsuban": "09111",
     "unban": "11",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3344,7 +3344,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-304",
+    "retsuban": "09304",
     "unban": "4",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -3400,7 +3400,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-112",
+    "retsuban": "09112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3471,7 +3471,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-301",
+    "retsuban": "09301",
     "unban": "1",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -3530,7 +3530,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-115",
+    "retsuban": "09115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3601,7 +3601,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-110",
+    "retsuban": "09110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3675,7 +3675,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-116",
+    "retsuban": "09116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3746,7 +3746,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-105",
+    "retsuban": "09105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3820,7 +3820,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-106",
+    "retsuban": "09106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3891,7 +3891,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "09-118",
+    "retsuban": "09118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -3965,7 +3965,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "10-121",
+    "retsuban": "10121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4036,7 +4036,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "10-120",
+    "retsuban": "10120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4110,7 +4110,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "10-108",
+    "retsuban": "10108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4181,7 +4181,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "10-113",
+    "retsuban": "10113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4255,7 +4255,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "10-112",
+    "retsuban": "10112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4326,7 +4326,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "10-111",
+    "retsuban": "10111",
     "unban": "11",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4400,7 +4400,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "10-110",
+    "retsuban": "10110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4471,7 +4471,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "10-115",
+    "retsuban": "10115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4545,7 +4545,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "11-105",
+    "retsuban": "11105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4616,7 +4616,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "11-116",
+    "retsuban": "11116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4690,7 +4690,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "11-118",
+    "retsuban": "11118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4761,7 +4761,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "11-106",
+    "retsuban": "11106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4835,7 +4835,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "11-120",
+    "retsuban": "11120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4906,7 +4906,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "11-121",
+    "retsuban": "11121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -4980,7 +4980,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "11-113",
+    "retsuban": "11113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5051,7 +5051,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "11-108",
+    "retsuban": "11108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5125,7 +5125,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "12-111",
+    "retsuban": "12111",
     "unban": "11",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5196,7 +5196,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "12-112",
+    "retsuban": "12112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5270,7 +5270,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "12-115",
+    "retsuban": "12115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5341,7 +5341,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "12-110",
+    "retsuban": "12110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5415,7 +5415,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "12-116",
+    "retsuban": "12116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5486,7 +5486,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "12-105",
+    "retsuban": "12105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5560,7 +5560,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "12-106",
+    "retsuban": "12106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5631,7 +5631,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "12-118",
+    "retsuban": "12118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5705,7 +5705,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "13-121",
+    "retsuban": "13121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5776,7 +5776,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "13-120",
+    "retsuban": "13120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5850,7 +5850,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "13-108",
+    "retsuban": "13108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5921,7 +5921,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "13-113",
+    "retsuban": "13113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -5995,7 +5995,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "13-112",
+    "retsuban": "13112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6066,7 +6066,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "13-111",
+    "retsuban": "13111",
     "unban": "11",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6140,7 +6140,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "13-110",
+    "retsuban": "13110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6211,7 +6211,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "13-115",
+    "retsuban": "13115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6285,7 +6285,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "14-105",
+    "retsuban": "14105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6356,7 +6356,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "14-116",
+    "retsuban": "14116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6430,7 +6430,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "14-118",
+    "retsuban": "14118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6501,7 +6501,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "14-106",
+    "retsuban": "14106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6575,7 +6575,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "14-120",
+    "retsuban": "14120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6646,7 +6646,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "14-121",
+    "retsuban": "14121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6720,7 +6720,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "14-113",
+    "retsuban": "14113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6791,7 +6791,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "14-108",
+    "retsuban": "14108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6865,7 +6865,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "15-111",
+    "retsuban": "15111",
     "unban": "11",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -6936,7 +6936,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "15-112",
+    "retsuban": "15112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7010,7 +7010,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "15-115",
+    "retsuban": "15115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7081,7 +7081,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "15-110",
+    "retsuban": "15110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7155,7 +7155,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "15-116",
+    "retsuban": "15116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7226,7 +7226,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "15-105",
+    "retsuban": "15105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7300,7 +7300,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "15-106",
+    "retsuban": "15106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7371,7 +7371,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "15-118",
+    "retsuban": "15118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7445,7 +7445,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-124",
+    "retsuban": "16124",
     "unban": "24",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7486,7 +7486,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-121",
+    "retsuban": "16121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7557,7 +7557,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-120",
+    "retsuban": "16120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7631,7 +7631,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-108",
+    "retsuban": "16108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7702,7 +7702,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-113",
+    "retsuban": "16113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7776,7 +7776,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-122",
+    "retsuban": "16122",
     "unban": "22",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7847,7 +7847,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-112",
+    "retsuban": "16112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7918,7 +7918,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-111",
+    "retsuban": "16111",
     "unban": "11",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -7992,7 +7992,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-123",
+    "retsuban": "16123",
     "unban": "23",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8063,7 +8063,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-110",
+    "retsuban": "16110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8134,7 +8134,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "16-115",
+    "retsuban": "16115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8208,7 +8208,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-127",
+    "retsuban": "17127",
     "unban": "27",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8282,7 +8282,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-105",
+    "retsuban": "17105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8353,7 +8353,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-116",
+    "retsuban": "17116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8427,7 +8427,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-118",
+    "retsuban": "17118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8498,7 +8498,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-106",
+    "retsuban": "17106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8572,7 +8572,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-121",
+    "retsuban": "17121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8643,7 +8643,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-124",
+    "retsuban": "17124",
     "unban": "24",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8717,7 +8717,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-161",
+    "retsuban": "17161",
     "unban": "61",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8791,7 +8791,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-113",
+    "retsuban": "17113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8862,7 +8862,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "17-120",
+    "retsuban": "17120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -8936,7 +8936,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-112",
+    "retsuban": "18112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9007,7 +9007,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-108",
+    "retsuban": "18108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9081,7 +9081,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-123",
+    "retsuban": "18123",
     "unban": "23",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9152,7 +9152,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-122",
+    "retsuban": "18122",
     "unban": "22",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9226,7 +9226,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-111",
+    "retsuban": "18111",
     "unban": "11",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9300,7 +9300,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-127",
+    "retsuban": "18127",
     "unban": "27",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9371,7 +9371,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-110",
+    "retsuban": "18110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9445,7 +9445,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-115",
+    "retsuban": "18115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9519,7 +9519,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-118",
+    "retsuban": "18118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9590,7 +9590,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-105",
+    "retsuban": "18105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9664,7 +9664,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "18-116",
+    "retsuban": "18116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9738,7 +9738,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-124",
+    "retsuban": "19124",
     "unban": "24",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9809,7 +9809,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-106",
+    "retsuban": "19106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9883,7 +9883,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-121",
+    "retsuban": "19121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -9957,7 +9957,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-120",
+    "retsuban": "19120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10028,7 +10028,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-161",
+    "retsuban": "19161",
     "unban": "61",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10102,7 +10102,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-113",
+    "retsuban": "19113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10176,7 +10176,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-123",
+    "retsuban": "19123",
     "unban": "23",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10247,7 +10247,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-112",
+    "retsuban": "19112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10321,7 +10321,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-108",
+    "retsuban": "19108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10395,7 +10395,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-110",
+    "retsuban": "19110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10466,7 +10466,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "19-122",
+    "retsuban": "19122",
     "unban": "22",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10540,7 +10540,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-118",
+    "retsuban": "20118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10611,7 +10611,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-127",
+    "retsuban": "20127",
     "unban": "27",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10685,7 +10685,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-115",
+    "retsuban": "20115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10759,7 +10759,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-124",
+    "retsuban": "20124",
     "unban": "24",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10830,7 +10830,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-105",
+    "retsuban": "20105",
     "unban": "5",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10904,7 +10904,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-116",
+    "retsuban": "20116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -10978,7 +10978,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-121",
+    "retsuban": "20121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11049,7 +11049,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-106",
+    "retsuban": "20106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11123,7 +11123,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-113",
+    "retsuban": "20113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11194,7 +11194,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "20-120",
+    "retsuban": "20120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11268,7 +11268,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-112",
+    "retsuban": "21112",
     "unban": "12",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11339,7 +11339,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-161",
+    "retsuban": "21161",
     "unban": "61",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11413,7 +11413,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-123",
+    "retsuban": "21123",
     "unban": "23",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11487,7 +11487,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-122",
+    "retsuban": "21122",
     "unban": "22",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11558,7 +11558,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-108",
+    "retsuban": "21108",
     "unban": "8",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11632,7 +11632,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-110",
+    "retsuban": "21110",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11706,7 +11706,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-115",
+    "retsuban": "21115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11777,7 +11777,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-118",
+    "retsuban": "21118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11851,7 +11851,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-127",
+    "retsuban": "21127",
     "unban": "27",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11925,7 +11925,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "21-124",
+    "retsuban": "21124",
     "unban": "24",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -11999,7 +11999,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "22-106",
+    "retsuban": "22106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12070,7 +12070,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "22-116",
+    "retsuban": "22116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12144,7 +12144,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "22-120",
+    "retsuban": "22120",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12215,7 +12215,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "22-121",
+    "retsuban": "22121",
     "unban": "21",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12289,7 +12289,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "22-113",
+    "retsuban": "22113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12363,7 +12363,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "22-161",
+    "retsuban": "22161",
     "unban": "61",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12437,7 +12437,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "22-310",
+    "retsuban": "22310",
     "unban": "10",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -12493,7 +12493,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "22-123",
+    "retsuban": "22123",
     "unban": "23",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12567,7 +12567,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "23-322",
+    "retsuban": "23322",
     "unban": "22",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -12626,7 +12626,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "23-118",
+    "retsuban": "23118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12697,7 +12697,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "23-115",
+    "retsuban": "23115",
     "unban": "15",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12771,7 +12771,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "23-106",
+    "retsuban": "23106",
     "unban": "6",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12842,7 +12842,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "23-127",
+    "retsuban": "23127",
     "unban": "27",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -12916,7 +12916,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "23-320",
+    "retsuban": "23320",
     "unban": "20",
     "typecode": "Local",
     "destcode": "Myodani",
@@ -12972,7 +12972,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "23-116",
+    "retsuban": "23116",
     "unban": "16",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -13046,7 +13046,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "00-113",
+    "retsuban": "00113",
     "unban": "13",
     "typecode": "Local",
     "destcode": "Seishin",
@@ -13117,7 +13117,7 @@
     "direction": "East"
   },
   {
-    "retsuban": "00-118",
+    "retsuban": "00118",
     "unban": "18",
     "typecode": "Local",
     "destcode": "Seishin",

@@ -46,6 +46,7 @@ function make_train(train, sta_id) {
     <span class="train">
         <span class="${classes}">${train.jikoku[sta_id].minute}</span>
         <span class="train-op">${train.unban}</span>
+        <span class="train-id">${train.retsuban}</span>
     </span>
     `;
 

@@ -92,6 +92,11 @@ ul {
     font-size: 50%;
 }
 
+.train-id {
+    display: block;
+    font-size: 50%;
+}
+
 .dest-shinkobe {
     text-decoration: underline;
 }
