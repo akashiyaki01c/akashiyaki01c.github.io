@@ -1,4 +1,6 @@
-/* グローバル変数 */
+// © 2022- Akashiyaki
+
+/* グローバル変数群 */
 var data_holiday_east = "";
 var data_holiday_west = "";
 var data_weekday_east = "";
