@@ -1,8 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     background-color: whitesmoke;
     font-family: 'M PLUS 1', sans-serif;
+    margin: 5px;
 }
 
 h1 {
@@ -32,6 +38,7 @@ h3 {
 
 table {
     border-collapse: collapse;
+    margin: 10px;
 }
 
 th {
@@ -50,4 +57,66 @@ footer {
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
+}
+
+p {
+    margin-left: 10px;
+}
+
+ul {
+    display: inline;
+}
+
+span {
+    margin: 5px 0;
+}
+
+.hour {
+    text-align: center;
+    width: 30px;
+}
+
+.train {
+    text-align: center;
+    margin: 5px 5px 0px 5px;
+    display: inline-block;
+}
+
+.trains {
+    width: auto;
+}
+
+.train-minute {
+    display: block;
+    width: 30px;
+}
+
+.train-op {
+    display: block;
+    font-size: 50%;
+}
+
+.dest-shinkobe {
+    text-decoration: underline;
+}
+
+.dest-myodani {
+    border: 1px solid #000;
+    width: 25px;
+}
+
+.car-hokushin {
+    color: darkred;
+    border-color: darkred;
+    text-decoration-color: darkred;
+}
+
+.car-tanigami {
+    color: darkblue;
+    border-color: darkblue;
+    text-decoration-color: darkblue;
+}
+
+.car-outofservice {
+    color: red;
 }

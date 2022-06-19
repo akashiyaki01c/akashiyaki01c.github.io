@@ -3,18 +3,96 @@
     <!-- © 2022- Akashiyaki -->
     <head>
         <title>神戸市交運用検索</title>
+        <meta name="robots" content="noindex" />
         <link rel="stylesheet" href="../style.css">
     </head>
     <body>
-        <h1>神戸市交 西神山手線 運用検索</h1>
-        <p>鋭意製作中</p>
-        <p>出来るだけ早く完成させますのでよろしくお願いします</p>
+        <haeder>
+            <h1>神戸市交 西神山手線 運用検索？</h1>
+        </haeder>
+
+        <form name="updateform">
+            <select name="sta_id_select">
+                <option value="0">谷上駅</option>
+                <option value="1">新神戸駅</option>
+                <option value="2">三宮駅</option>
+                <option value="3">県庁前駅</option>
+                <option value="4">大倉山駅</option>
+                <option value="5">湊川公園駅</option>
+                <option value="6">上沢駅</option>
+                <option value="7">長田駅</option>
+                <option value="8">新長田駅</option>
+                <option value="9">板宿駅</option>
+                <option value="10">妙法寺駅</option>
+                <option value="11">名谷駅</option>
+                <option value="12">総合運動公園駅</option>
+                <option value="13">学園都市駅</option>
+                <option value="14">伊川谷駅</option>
+                <option value="15">西神南駅</option>
+                <option value="16">西神中央駅</option>
+            </select>
+
+            <input type="radio" name="day" value="weekday" checked>平日
+            <input type="radio" name="day" value="holiday">休日
+
+            <input type="radio" name="direction" value="east" checked>東行
+            <input type="radio" name="direction" value="west">西行
+
+            <input type="button" value="更新" onclick="clickUpdate()" />
+        </form>
+
+        <p style="color: red; font-style: italic;" id="warning-text"></p>
+
+        <table id="jikoku-table"></table>
+        <h2>行先凡例</h2>
+        <span style="display: inline-block;">谷上行(東行)/西神中央ゆ(西行): 無印</span>
+        <br />
+        <span style="display: inline-block; text-decoration: underline;">新神戸行: 下線</span>
+        <br />
+        <span style="display: inline-block; border: 1px solid #000;">名谷行: 枠線</span>
+
+        <h2>車種凡例</h2>
+        <span style="display: inline-block;">市交車(名谷または西神出庫): 黒色</span>
+        <br />
+        <span style="display: inline-block; color: darkblue;">市交車(谷上出庫): 紺色</span>
+        <br />
+        <span style="display: inline-block; color: darkred;">北神車(谷上出庫): 濃い赤色</span>
 
         <footer>
 			© 2022- Akashiyaki
 		</footer>
-        
+
+        <script src="./js/train.js"></script>
+        <script src="./js/make.js"></script>
         <!-- エントリポイント -->
         <script src="./js/main.js"></script>
+        <script>
+            function clickUpdate() {
+                document.getElementById("warning-text").innerHTML = "";
+
+                let num = document.updateform.sta_id_select.selectedIndex;
+
+                let day = false;
+                if (document.updateform.day.value == "holiday")
+                    day = true;
+                
+                let dir = false;
+                if (document.updateform.direction.value == "east")
+                    dir = true;
+                
+                var not_exist = false;
+                if (num == 0 && dir == true) { // 谷上東行存在しない
+                    document.getElementById("warning-text").innerHTML = "指定した組み合わせは存在しません";
+                    document.getElementById("jikoku-table").innerHTML = "";
+                }
+                else if (num == 16 && dir == false) { // 西神中央西行存在しない
+                    document.getElementById("warning-text").innerHTML = "指定した組み合わせは存在しません";
+                    document.getElementById("jikoku-table").innerHTML = "";
+                }
+                else
+                    reset(num, day, dir);
+                    
+            }
+        </script>
     </body>
 </html>
