@@ -9,11 +9,17 @@ h1 {
     background-color: darkblue;
     color: white;
     font-weight: 700;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h2 {
     border-bottom: 5px solid darkblue;
     font-weight: 500;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 h3 {
@@ -34,4 +40,12 @@ th {
 td {
     border-collapse: collapse;
     border: 1px solid #333;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
 }
