@@ -32,7 +32,7 @@ function make_train(train, sta_id) {
         return "";
 
     // 適用させる属性
-    let classes = "";
+    let classes = "train-minute ";
     if (train.destcode == "Shinkobe") // 新神戸行(下線)
         classes += "dest-shinkobe ";
     else if (train.destcode == "Myodani") // 名谷行(枠)
