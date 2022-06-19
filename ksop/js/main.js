@@ -1,10 +1,10 @@
 // © 2022- Akashiyaki
 
 /* グローバル変数群 */
-var data_holiday_east = "";
-var data_holiday_west = "";
-var data_weekday_east = "";
-var data_weekday_west = "";
+var data_holiday_east = ""; // 休日東行
+var data_holiday_west = ""; // 休日西行
+var data_weekday_east = ""; // 平日東行
+var data_weekday_west = ""; // 平日西行
 
 fetch("./data/2022_he.json")
     .then(function(response) {

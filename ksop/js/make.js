@@ -1,5 +1,6 @@
 // htmlを作る関数群
 
+// 初期状態の時刻表を作る関数
 function make_rows(sta_name, day_name, direction) {
     let result = `
 <tr>
@@ -27,6 +28,7 @@ function make_rows(sta_name, day_name, direction) {
     return result;
 }
 
+// 一つの列車を作る関数
 function make_train(train, sta_id) {
     if (train.jikoku[sta_id] == null)
         return "";
@@ -71,6 +73,7 @@ function get_hour_train(hour, sta_id, trains) {
     return result;
 }
 
+// 指定時に発車する列車の文字列(HTML)を取得
 function make_hour_train(hour, sta_id, trains) {
     let result = "";
 
@@ -81,6 +84,7 @@ function make_hour_train(hour, sta_id, trains) {
     return result;
 }
 
+// 指定駅の全列車の文字列(HTML)を取得
 function draw_all_hour_train(sta_id, trains) {
     let hours = [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 0, 1];
     hours.forEach(i => {
@@ -88,6 +92,7 @@ function draw_all_hour_train(sta_id, trains) {
     })
 }
 
+// 1から時刻表を作る関数
 function reset(sta_id, is_holiday, is_east) {
     let staname = [
         "谷上", "新神戸", "三宮", "県庁前",
