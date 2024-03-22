@@ -1,0 +1,63 @@
+:root {
+	--background: #eee;
+	--background-dark: #e7e7e7;
+
+	--foreground: #224;
+	--foreground-light: #779;
+}
+
+body {
+	background-color: var(--background);
+	color: var(--foreground);
+	margin: 0 20px;
+
+	font-family: 'Source Han Sans', sans-serif;
+}
+
+/* header */
+
+header {
+	border-top: 2px solid var(--foreground);
+	border-bottom: 2px solid var(--foreground);
+	margin: 20px 0;
+
+	> div {
+		margin-bottom: 5px;
+	}
+}
+
+h2 {
+	border-bottom: 1px solid var(--foreground);
+	margin: 10px 0;
+}
+
+h3 {
+	margin-top: 5px;
+}
+
+/* footer */
+footer {
+	border-top: 1px solid var(--foreground);
+	border-bottom: 1px solid var(--foreground);
+	margin: 20px 0;
+	text-align: center;
+}
+
+/* ul ol li */
+
+li {
+	margin-left: 1.5em;
+}
+
+/* table */
+
+table {
+	border-collapse: collapse;
+}
+th, td {
+	border: 1px solid var(--foreground-light);
+	padding: 0 0.5em;
+}
+tr:nth-child(2n) {
+	background-color: var(--background-dark);
+}
