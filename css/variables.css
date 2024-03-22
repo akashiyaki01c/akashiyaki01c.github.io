@@ -1,0 +1,13 @@
+:root {
+	--bg: hsl(260, 40%, 96%);
+	--fg: hsl(260, 20%, 15%);
+
+	--link: hsl(260, 60%, 30%);
+
+	--table-border: hsl(260, 20%, 80%);
+	--table-header: hsl(260, 20%, 90%);
+	--table-cell: hsl(260, 20%, 94%);
+
+	--code-border: hsl(260, 20%, 80%);
+	--code-bg: hsl(260, 40%, 90%);
+}
