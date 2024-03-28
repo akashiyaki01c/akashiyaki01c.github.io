@@ -79,6 +79,10 @@ input[type="button"] {
 	color: white;
 	padding: 0 0.5em;
 }
+input[type="button"]:disabled {
+	background-color: var(--bg);
+	color: gray;
+}
 input[type="checkbox"] {
 	accent-color: var(--input-fg);
 	
