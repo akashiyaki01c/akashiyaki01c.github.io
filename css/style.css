@@ -74,8 +74,10 @@ a:hover {
 
 /* input */
 input[type="button"] {
-	background-color: var(--input-bg);
+	background-color: var(--input-fg);
 	border: 2px solid var(--input-border);
+	color: white;
+	padding: 0 0.5em;
 }
 input[type="checkbox"] {
 	accent-color: var(--input-fg);
@@ -94,4 +96,7 @@ input[type="text"] {
 	background-color: var(--input-bg);
 	border: 2px solid var(--input-border);
 	width: 5em;
+}
+label {
+	min-width: 6em;
 }
