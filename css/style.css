@@ -71,3 +71,27 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
+/* input */
+input[type="button"] {
+	background-color: var(--input-bg);
+	border: 2px solid var(--input-border);
+}
+input[type="checkbox"] {
+	accent-color: var(--input-fg);
+	
+}
+input[type="color"] {
+	background-color: var(--input-bg);
+	border: 2px solid var(--input-border);
+}
+input[type="number"] {
+	background-color: var(--input-bg);
+	border: 2px solid var(--input-border);
+	width: 3em;
+}
+input[type="text"] {
+	background-color: var(--input-bg);
+	border: 2px solid var(--input-border);
+	width: 5em;
+}
