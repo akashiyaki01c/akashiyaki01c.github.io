@@ -104,3 +104,11 @@ input[type="text"] {
 label {
 	min-width: 6em;
 }
+fieldset {
+	padding: 0.5em;
+	padding-top: 0;
+	border: 2px solid var(--input-border);
+}
+fieldset > div {
+	margin: 0.1em;
+}
