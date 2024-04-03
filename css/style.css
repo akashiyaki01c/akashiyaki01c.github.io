@@ -46,6 +46,7 @@ footer {
 table {
 	border: 2px solid var(--table-border);
 	border-collapse: collapse;
+	margin-bottom: 1em;
 }
 th {
 	background-color: var(--table-header);
