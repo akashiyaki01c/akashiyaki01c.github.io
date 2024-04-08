@@ -102,6 +102,10 @@ input[type="text"] {
 	border: 2px solid var(--input-border);
 	width: 5em;
 }
+select {
+	background-color: var(--input-bg);
+	border: 2px solid var(--input-border);
+}
 label {
 	min-width: 6em;
 }
