@@ -1,5 +1,9 @@
 @import 'variables.css';
 
+:root {
+	font-size: 18px;
+}
+
 html {
 	background-color: var(--bg);
 	color: var(--fg);
@@ -7,7 +11,12 @@ html {
 }
 
 body {
-	margin: 0 20px;
+	max-width: 45ric;
+	margin: auto;
+	padding: 0 2ic;
+}
+body > * {
+	padding: 0 0.5ic;
 }
 
 code {
@@ -74,7 +83,7 @@ a:hover {
 }
 
 /* input */
-input[type="button"] {
+input[type="button"], button {
 	background-color: var(--input-fg);
 	border: 2px solid var(--input-border);
 	color: white;
@@ -83,6 +92,9 @@ input[type="button"] {
 input[type="button"]:disabled {
 	background-color: var(--bg);
 	color: gray;
+}
+input[type="button"]:hover {
+	background-color: var(--input-fg-hover);
 }
 input[type="checkbox"] {
 	accent-color: var(--input-fg);
@@ -97,7 +109,7 @@ input[type="number"] {
 	border: 2px solid var(--input-border);
 	width: 3em;
 }
-input[type="text"] {
+input[type="text"], textarea {
 	background-color: var(--input-bg);
 	border: 2px solid var(--input-border);
 	width: 5em;
@@ -116,4 +128,8 @@ fieldset {
 }
 fieldset > div {
 	margin: 0.1em;
+}
+::selection {
+	background-color: var(--selection-bg);
+	color: var(--bg);
 }

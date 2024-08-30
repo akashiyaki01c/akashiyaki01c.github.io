@@ -2,6 +2,8 @@
 	--bg: hsl(260, 40%, 96%);
 	--fg: hsl(260, 20%, 15%);
 
+	--selection-bg: hsl(260, 20%, 50%);
+
 	--link: hsl(260, 60%, 30%);
 
 	--table-border: hsl(260, 20%, 80%);
@@ -13,5 +15,7 @@
 
 	--input-border: hsl(260, 20%, 80%);
 	--input-fg: hsl(260, 20%, 35%);
+	--input-fg-hover: hsl(260, 20%, 40%);
+	--input-bg: hsl(260, 20%, 90%);
 	--input-bg: hsl(260, 20%, 90%);
 }
