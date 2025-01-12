@@ -1,0 +1,46 @@
+name: Build and Deploy with Deno
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions: 
+      id-token: write
+      pages: write
+    
+    steps:
+      # リポジトリをチェックアウト
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Denoをセットアップ
+      - name: Set up Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x  # 必要なDenoのバージョンを指定
+
+      # Markdown→HTML変換を実行
+      - name: Convert Markdown to HTML
+        run: |
+          mkdir output
+          deno run --allow-read --allow-write --allow-net ./compiler/compile.ts all
+
+      # .nojekyllファイルを追加（Jekyll無効化）
+      - name: Disable Jekyll
+        run: echo > ./output/.nojekyll
+
+      # アーティファクトに追加
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: github-pages
+          path: ./output
+
+      # GitHub Pages用に成果物をアップロード
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

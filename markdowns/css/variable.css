@@ -1,0 +1,35 @@
+:root {
+	--g-hue: 160;
+	--g-white-color:  hsl(var(--g-hue), 20%, 97%);
+	--g-light6-color: hsl(var(--g-hue), 25%, 94%);
+	--g-light5-color: hsl(var(--g-hue), 30%, 90%);
+	--g-light4-color: hsl(var(--g-hue), 40%, 80%);
+	--g-light3-color: hsl(var(--g-hue), 50%, 70%);
+	--g-light2-color: hsl(var(--g-hue), 60%, 60%);
+	--g-light1-color: hsl(var(--g-hue), 70%, 50%);
+	--g-base-color:   hsl(var(--g-hue), 90%, 40%);
+	--g-dark1-color:  hsl(var(--g-hue), 80%, 35%);
+	--g-dark2-color:  hsl(var(--g-hue), 70%, 30%);
+	--g-dark3-color:  hsl(var(--g-hue), 60%, 25%);
+	--g-black-color:  hsl(var(--g-hue), 50%, 15%);
+
+	--b-hue: 195;
+	--b-white-color:  hsl(var(--b-hue), 20%, 97%);
+	--b-light6-color: hsl(var(--b-hue), 25%, 94%);
+	--b-light5-color: hsl(var(--b-hue), 30%, 90%);
+	--b-light4-color: hsl(var(--b-hue), 40%, 80%);
+	--b-light3-color: hsl(var(--b-hue), 50%, 70%);
+	--b-light2-color: hsl(var(--b-hue), 60%, 60%);
+	--b-light1-color: hsl(var(--b-hue), 70%, 50%);
+	--b-base-color:   hsl(var(--b-hue), 90%, 40%);
+	--b-dark1-color:  hsl(var(--b-hue), 80%, 35%);
+	--b-dark2-color:  hsl(var(--b-hue), 70%, 30%);
+	--b-dark3-color:  hsl(var(--b-hue), 60%, 25%);
+	--b-black-color:  hsl(var(--b-hue), 50%, 15%);
+
+	/* SVG Colors */
+	--svg-default-color: var(--b-black-color);
+	--svg-accent-color: hsl(0, 40%, 30%);
+	--svg-sea-color: var(--b-dark2-color);
+	--svg-mountain-color: var(--g-dark2-color);
+}
