@@ -88,8 +88,8 @@ body {
 div.root {
 	display: grid;
 	grid-template-areas: 
-		"sidebar main"
-		"footer footer";
+		"main"
+		"footer";
 	grid-template-columns:
 		minmax(0, 0.33fr) 1fr;
 	@container style(--is-mobile) {
