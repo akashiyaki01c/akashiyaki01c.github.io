@@ -163,6 +163,14 @@ input[type="text"] {
 	border-radius: 0.25rem;
 }
 
+select {
+	padding: 0.25em 0.5em;
+	margin-inline-end: 0.5em;
+	font-family: inherit;
+	border: 1.5px solid var(--color-gray-500);
+	border-radius: 0.25rem;
+}
+
 h1 {
 	border-bottom: 1px solid var(--color-gray-900);
 	padding-bottom: 0.1em;
