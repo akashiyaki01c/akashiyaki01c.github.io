@@ -1,0 +1,53 @@
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="lib/led.css">
+
+<main>
+	<div class="front-led-outer">
+		<div class="front-led">
+			<div id="number1-led"></div>
+			<div id="number2-led"></div>
+			<div id="front-led-space"></div>
+			<div id="dest-led"></div>
+		</div>
+	</div>
+	<div class="side-led-outer">
+		<div class="side-led type6000">
+			<div id="dest-led-side"></div>
+		</div>
+	</div>
+</main>
+<div class="changer">
+	<fieldset id="line-changer">
+		<legend>線区モード</legend>
+		<div class="line-select">
+			<input type="radio" name="radio-senku" id="radio-seishin" value="0" checked>
+			<div class="line-s-before"></div>
+			<label class="line-s" for="radio-seishin">西神・山手、北神線 6000形</label>
+		</div>
+		<div class="line-select">
+			<input type="radio" name="radio-senku" id="radio-kaigan" value="1">
+			<div class="line-k-before"></div>
+			<label class="line-k" for="radio-kaigan">海岸線 5000形</label>
+		</div>
+	</fieldset>
+	<fieldset id="dest-changer">
+		<legend>行先設定</legend>
+		<div>
+			<label for="select-number1">運行番号</label><select name="select-number1" id="select-number1"></select>
+			<select name="select-number2" id="select-number2"></select>
+		</div>
+		<div>
+			<label for="select-dest">行先</label>
+			<select name="select-dest" id="select-dest"></select>
+		</div>
+	</fieldset>
+</div>
+<footer>
+	<div>
+		実車の表示と異なる場合があります。また、一部架空の表示が含まれています。
+	</div>
+	<div><a href="https://github.com/akashiyaki01c/sy-led/">(Source Code)</a></div>
+</footer>
+<script src="lib/led.js"></script>
+<script src="draw.js"></script>
+<script src="script.js"></script>

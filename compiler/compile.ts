@@ -12,7 +12,7 @@ console.log("markdown to html compiler. now watching!");
 
 if (Deno.args[0] && Deno.args[0] == "all") {
 	try {
-		await Deno.remove("./output/", {recursive: true});
+		await Deno.remove("./files/", {recursive: true});
 	} catch { /* no-op */ };
 	for await (const filePath of fs.walk("./markdowns")) {
 		if (filePath.isDirectory) {

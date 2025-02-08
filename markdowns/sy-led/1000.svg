@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="127mm"
+   height="68.791664mm"
+   viewBox="0 0 127 68.791664"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="1000.svg"
+   inkscape:export-filename="maku/1000.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.69556072"
+     inkscape:cx="105.67014"
+     inkscape:cy="141.61237"
+     inkscape:window-width="1387"
+     inkscape:window-height="847"
+     inkscape:window-x="53"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid361"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5402"
+       x="-0.19187521"
+       y="-0.61400065"
+       width="1.3837504"
+       height="2.2280013">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.7689307"
+         id="feGaussianBlur5404" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect627"
+       style="fill:#dfece4;fill-opacity:1;stroke-width:0.529167"
+       d="m 0,0 v 37.041667 h 21.166667 v -15.875 h 84.666663 v 15.875 H 127 V 0 H 105.83333 21.166667 Z" />
+    <rect
+       style="fill:#dfece4;fill-opacity:1;stroke-width:0.529167"
+       id="rect681-7"
+       width="127"
+       height="15.874999"
+       x="0"
+       y="52.916668"
+       ry="1.1881455e-06" />
+    <path
+       id="rect685"
+       style="fill:#217844;stroke-width:0.529167"
+       d="M 0,37.041667 V 47.625 52.916667 H 127 V 47.625 37.041667 H 105.83333 V 47.625 H 21.166667 V 37.041667 Z" />
+    <path
+       style="fill:#217844;fill-opacity:1;stroke-width:0.793751"
+       d="m 21.166666,39.687499 v 7.9375 h 7.937501 c -5.953126,10e-7 -7.9375,-1.984374 -7.937501,-7.9375 z"
+       id="path3454"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#217844;fill-opacity:1;stroke-width:0.793751"
+       d="m 105.83333,39.687499 v 7.9375 h -7.937497 c 5.953117,10e-7 7.937497,-1.984374 7.937497,-7.9375 z"
+       id="path3454-4"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#dfece4;fill-opacity:1;stroke-width:0.793751"
+       d="m 21.166666,29.104167 v -7.9375 h 7.937501 c -5.953126,-1e-6 -7.9375,1.984374 -7.937501,7.9375 z"
+       id="path3454-1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#dfece4;fill-opacity:1;stroke-width:0.793751"
+       d="m 105.83333,29.104167 v -7.9375 h -7.937497 c 5.953117,-1e-6 7.937497,1.984374 7.937497,7.9375 z"
+       id="path3454-1-8"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:1;fill:#000000;stroke-width:0.529167"
+       id="rect465"
+       width="84.666664"
+       height="26.458334"
+       x="0"
+       y="68.791664"
+       ry="1.1881455e-06"
+       inkscape:export-filename="maku/1000light.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;stroke-width:0.529167"
+       id="rect465-7"
+       width="84.666664"
+       height="26.458334"
+       x="0"
+       y="105.83333"
+       ry="1.1881455e-06"
+       inkscape:export-filename="maku/1000nolight.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.529167;filter:url(#filter5402)"
+       id="rect465-2"
+       width="84.666664"
+       height="26.458334"
+       x="0"
+       y="68.791664"
+       ry="1.1881455e-06" />
+  </g>
+</svg>

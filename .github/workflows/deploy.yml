@@ -27,19 +27,19 @@ jobs:
       # Markdown→HTML変換を実行
       - name: Convert Markdown to HTML
         run: |
-          mkdir output
+          mkdir files
           deno run --allow-read --allow-write --allow-net ./compiler/compile.ts all
 
       # .nojekyllファイルを追加（Jekyll無効化）
       - name: Disable Jekyll
-        run: echo > ./output/.nojekyll
+        run: echo > ./files/.nojekyll
 
       # アーティファクトに追加
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
-          path: ./output
+          path: ./files
 
       # GitHub Pages用に成果物をアップロード
       - name: Deploy to GitHub Pages

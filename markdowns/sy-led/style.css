@@ -1,0 +1,144 @@
+:root {
+	--seishin-color: #008F4B;
+	--kaigan-color: #0072BA;
+}
+
+main {
+	min-width: 800px;
+}
+
+.front-led-outer {
+	display: flex;
+	justify-content: center;
+}
+
+.front-led {
+	display: flex; 
+	height: calc(32px * 5); 
+	width: 800px;
+	border-top: 20px solid black;
+	border-bottom: 20px solid black;
+	background-color: black;
+	justify-content: center;
+
+	> div {
+		flex: none;
+	}
+}
+
+/* .front-led-space {
+	height: 100%;
+	width: calc(12px * 5);
+	background-color: black;
+} */
+
+.side-led-outer {
+	display: flex;
+	justify-content: center;
+}
+
+.side-led {
+	margin-top: 10px;
+	position: relative;
+	background-size: contain;
+	min-width: 800px;
+	width: 800px;
+	height: 320px;
+	image-rendering: pixelated;
+}
+.side-led>div {
+	position: absolute;
+	top: 80px;
+	left: 160px;
+}
+.side-led.type6000 {
+	background-image: url(./6000Side.png);
+}
+.side-led.type5000 {
+	background-image: url(./5000Side.png);
+}
+
+.led-inner::after {
+	background-color: #fff2;
+	content: '';
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+/* header */
+body {
+	margin: 0;
+	padding: 0;
+}
+header {
+	width: 100%;
+	height: fit-content;
+	margin: 0;
+	padding: 0;
+}
+header>h1 {
+	width: 100%;
+	height: fit-content;
+	margin: 20px 0;
+	padding: 5px 0;
+
+	text-align: center;
+	border-top: 2px solid var(--seishin-color);
+	border-bottom: 2px solid var(--seishin-color);
+
+	background-color: #fff2;
+}
+
+.changer {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#line-changer {
+	width: 20em;
+}
+#dest-changer {
+	width: 20em;
+}
+
+.line-select {
+	display: flex;
+	height: fit-content;
+}
+.line-s-before {
+	display: block;
+	width: 0.5em;
+	min-height: 100%;
+	background-color: var(--seishin-color);
+}
+.line-s {
+	color: var(--seishin-color);
+}
+
+.line-k-before {
+	display: block;
+	width: 0.5em;
+	min-height: 100%;
+	background-color: var(--kaigan-color);
+}
+.line-k {
+	color: var(--kaigan-color);
+}
+
+#radio-seishin {
+	accent-color: var(--seishin-color);
+}
+#radio-kaigan {
+	accent-color: var(--kaigan-color);
+}
+
+#select-dest {
+	width: calc(100% - 3em);
+}
+
+footer > div {
+	font-size: smaller;
+	text-align: center;
+}

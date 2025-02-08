@@ -1,0 +1,20 @@
+{
+	"data": [
+		{"index": 0, "name": ""},
+		{"index": 1, "name": "試運転"},
+		{"index": 2, "name": "回送"},
+		{"index": 3, "name": "西神中央"},
+		{"index": 4, "name": "学園都市"},
+		{"index": 5, "name": "新神戸"},
+		{"index": 6, "name": "名谷"},
+		{"index": 7, "name": "谷上"},
+		{"index": 8, "name": "快速西神中央"},
+		{"index": 9, "name": "快速学園都市"},
+		{"index": 10, "name": "快速新神戸"},
+		{"index": 11, "name": "快速名谷"},
+		{"index": 12, "name": ""},
+		{"index": 13, "name": ""},
+		{"index": 14, "name": ""},
+		{"index": 15, "name": ""}
+	]
+}

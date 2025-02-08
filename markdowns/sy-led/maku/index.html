@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="stylesheet" href="../lib/led.css">
+	<meta name="robots" content="noindex">
+</head>
+<body>
+	<div style="position: relative; height: 260px; width: 480px;">
+		<div id="maku" style="position: absolute; top: 80px; left: 80px; filter: brightness(0.8); background-color: white;"></div>
+		<div id="light" style="position: absolute; top: 80px; left: 80px; mix-blend-mode: overlay; filter: sepia(0.25);">
+			<img id="img_onlight" src="./1000light.png" alt="1000形ライト" style="display: none;">
+			<img id="img_offlight" src="./1000nolight.png" alt="1000形ライト">
+		</div>
+		<div id="1000outer" style="position: absolute; top: 0; left: 0;">
+			<img src="./1000.png" alt="1000形側面幕">
+		</div>
+	</div>
+	<form>
+		<div><label for="select-dest">行先</label><select name="select-dest" id="select-dest"></select></div>
+		<div><label for="select-light">照明</label><input type="checkbox" name="select-light" id="select-light" checked></div>
+	</form>
+
+	<script src="../lib/led.js"></script>
+	<script>
+		const maku = new MakuDisplay("maku", "./maku.png", 320, 100, 0, 0, 0, 80, 1, 100);
+		let nowIndex = 0;
+
+		const destOnchange = () => {
+			let value = Number.parseInt(document.getElementById("select-dest").value);
+			document.getElementById("select-dest").disabled = true;
+			if (nowIndex > value) {
+				maku.update(nowIndex+1, () => {
+					maku.update(value, () => {
+						document.getElementById("select-dest").disabled = false;
+						nowIndex = value;
+					});
+				});
+			} else {
+				maku.update(value, () => {
+					document.getElementById("select-dest").disabled = false;
+					nowIndex = value;
+				});
+			}
+		};
+		document.getElementById("select-dest").onchange = destOnchange;
+		(async () => {
+			const data = await (await fetch("data.json")).json();
+			let str = data.data.map(v => `<option value="${v.index}">${v.name}</option>`).join("\n");			
+			document.querySelector("#select-dest").innerHTML = str;
+
+			document.querySelector("#select-light").onclick = (v) => {
+				if (document.querySelector("#select-light").checked) {
+					document.querySelector("#img_onlight").style.display = "unset";
+					document.querySelector("#img_offlight").style.display = "none";
+				} else {
+					document.querySelector("#img_onlight").style.display = "none";
+					document.querySelector("#img_offlight").style.display = "unset";
+				}
+			}
+			document.querySelector("#select-light").onclick();
+		})();
+	</script>
+</body>
+</html>

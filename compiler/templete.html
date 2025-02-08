@@ -4,10 +4,10 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="Content-Security-Policy" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>
-${mdTitle}
-	</title>
+	<title>${mdTitle}</title>
 	<link rel="stylesheet" href="/css/style.css">
+	<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+	<script src="/pagefind/pagefind-ui.js"></script>
 	<style>
 		a.anchor {
 			display: none;
@@ -15,30 +15,12 @@ ${mdTitle}
 	</style>
 </head>
 <body>
-	<!-- Compiled by deno-gfm -->
-	<header class="fixed-header">
-		
-	</header>
-	<div class="root">
-		<main class="doc-root">
-			<hgroup>
-				<nav class="header-image">
-					<svg>
-						<use href="/css/kobe.svg#img" />
-					</svg>
-				</nav>
-				<h1 class="header-title">
-${mdTitle}
-				</h1>
-				<div class="breadcrumb">
-					<ol>
-${pankuzu}
-					</ol>
-				</div>
-			</hgroup>
-${body}
-		</main>
-		<footer class="fixed-footer">&copy; akashiyaki01c</footer>
-	</div>
+	<div class="root">${body}</div>
+	<!-- <div id="search"></div>
+	<script>
+		window.addEventListener('DOMContentLoaded', (event) => {
+			new PagefindUI({ element: "#search", showSubResults: true });
+		});
+	</script> -->
 </body>
 </html>
