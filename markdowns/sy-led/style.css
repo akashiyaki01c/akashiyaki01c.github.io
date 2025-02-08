@@ -3,6 +3,10 @@
 	--kaigan-color: #0072BA;
 }
 
+.main-outer {
+	overflow-x: scroll;
+	border-radius: 10px;
+}
 main {
 	min-width: 800px;
 }
