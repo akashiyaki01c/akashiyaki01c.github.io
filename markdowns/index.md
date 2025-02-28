@@ -1,4 +1,7 @@
-akashiyaki01c.github.io; ホーム
+---toml
+title = "ホーム"
+pankuzu = "ホーム"
+---
 
 ほーむぺーじ(仮)
 
