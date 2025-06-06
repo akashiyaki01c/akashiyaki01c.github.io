@@ -28,7 +28,7 @@ jobs:
       - name: Convert Markdown to HTML
         run: |
           mkdir files
-          deno run --allow-read --allow-write --allow-net ./compiler/compile.ts all
+          deno run --allow-read --allow-write --allow-net --allow-env ./compiler/compile.ts all
 
       # .nojekyllファイルを追加（Jekyll無効化）
       - name: Disable Jekyll
